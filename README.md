@@ -6,3 +6,6 @@
 
 debruijn.cpp中有用到多线程，编译时注意链接。
 终端可直接运行命令： g++ debruijn.cpp -o debruijn -pthread -I./ -std=c++11
+
+
+cmake-build-debug我只上传了TestString.txt
